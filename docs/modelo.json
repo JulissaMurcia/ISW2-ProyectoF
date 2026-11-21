@@ -1,0 +1,7 @@
+"version": "1.0",
+"motor": "PostgreSQL (Supabase)",
+"tablas": [
+            { "nombre": "mascotas", "pk": "id", "fk": "user_id" },
+            { "nombre": "vacunas", "pk": "id", "fk": "mascota_id" }
+]
+{ }
