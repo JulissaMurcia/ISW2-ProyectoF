@@ -14,3 +14,4 @@ Limitación: al recargar la página los datos vuelven a su estado inicial. Para 
 \n## Flujo de Trabajo Git
 - Uso de ramas cortas desde main.
 - Integracion mediante Pull Requests revisados.
+- Estandar Conventional Commits (feat, fix, docs, refactor).
