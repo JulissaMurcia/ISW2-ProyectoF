@@ -12,3 +12,4 @@ Diseño: CSS con variables, adaptable a móvil y escritorio, modo claro y oscuro
 Limitación: al recargar la página los datos vuelven a su estado inicial. Para un proyecto real habría que conectar un backend con base de datos, autenticación de usuarios y notificaciones por correo o SMS.
 
 \n## Flujo de Trabajo Git
+- Uso de ramas cortas desde main.
