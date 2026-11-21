@@ -2,7 +2,6 @@ LEARN-CAP-849BCF83
 
 Descripción del Proyecto: 
 Patitas es un sitio web de cuidado de mascotas que centraliza en un solo lugar la información que un dueño necesita: el perfil de cada mascota, el carné de vacunas con alertas de vencimiento, la agenda de citas con veterinarios, un directorio de profesionales por especialidad, recordatorios de cuidados y consejos por especie. Su objetivo es que los dueños no olviden vacunas ni controles, que encuentren y reserven con un veterinario en pocos pasos y que cuiden mejor a sus animales con información clara y accesible desde el celular o la computadora.
-
 Aspectos técnicos: 
 Arquitectura: aplicación de una sola página (SPA) en un único archivo HTML con CSS y JavaScript propios, sin librerías ni recursos externos.
 Datos simulados (mock): mascotas, veterinarios, citas, vacunas, recordatorios y consejos están definidos como objetos JavaScript. Las fechas se calculan relativas a hoy, así que las alertas siempre tienen sentido.
@@ -15,3 +14,4 @@ Limitación: al recargar la página los datos vuelven a su estado inicial. Para 
 - Uso de ramas cortas desde main.
 - Integracion mediante Pull Requests revisados.
 - Estandar Conventional Commits (feat, fix, docs, refactor).
+\n## Despliegue
