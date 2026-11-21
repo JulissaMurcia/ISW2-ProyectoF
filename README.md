@@ -16,3 +16,4 @@ Limitación: al recargar la página los datos vuelven a su estado inicial. Para 
 - Estandar Conventional Commits (feat, fix, docs, refactor).
 \n## Despliegue
 - Produccion: [https://patitas.website](https://patitas.website)
+- Backend y Auth: Supabase PostgreSQL
