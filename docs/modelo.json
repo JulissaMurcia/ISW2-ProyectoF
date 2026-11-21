@@ -4,3 +4,4 @@
             { "nombre": "mascotas", "pk": "id", "fk": "user_id" },
             { "nombre": "vacunas", "pk": "id", "fk": "mascota_id" }
 ]
+{ }
